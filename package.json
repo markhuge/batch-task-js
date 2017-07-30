@@ -1,0 +1,26 @@
+{
+  "name": "batch-task",
+  "version": "1.0.0",
+  "description": "Execute a task on every N items",
+  "main": "index.js",
+  "scripts": {
+    "test": "tap --coverage-report=text test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/markhuge/batch-task-js.git"
+  },
+  "keywords": [
+    "batch"
+  ],
+  "author": "Mark Wilkerson <mark@markwilkerson.me>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/markhuge/batch-task-js/issues"
+  },
+  "homepage": "https://github.com/markhuge/batch-task-js#readme",
+  "devDependencies": {
+    "tap": "^10.7.0"
+  },
+  "dependencies": {}
+}
